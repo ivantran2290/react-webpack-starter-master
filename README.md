@@ -24,3 +24,8 @@ The aim of this repository is to provide a template for developing [React](https
 ## MISC
 
 * [A modern React starter pack based on webpack](http://krasimirtsonev.com/blog/article/a-modern-react-starter-pack-based-on-webpack)
+
+
+## Reference
+
+* https://github.com/krasimir/react-webpack-starter
