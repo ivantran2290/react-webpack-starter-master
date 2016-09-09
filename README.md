@@ -30,6 +30,5 @@ The aim of this repository is to provide a template for developing [React](https
 
 * https://github.com/krasimir/react-webpack-starter
 
-## Reference
-
-* https://github.com/krasimir/react-webpack-starter
+## Test
+* dfasfasdfasdf
