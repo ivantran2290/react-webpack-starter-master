@@ -32,4 +32,4 @@ The aim of this repository is to provide a template for developing [React](https
 
 ## Reference
 
-* https://github.com/krasimir/react-webpack-starterasfsadfsd
+* https://github.com/krasimir/react-webpack-starter
